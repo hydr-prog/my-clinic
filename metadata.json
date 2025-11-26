@@ -1,0 +1,7 @@
+{
+  "name": "Dental Pro Manager",
+  "description": "A comprehensive dental clinic management system with patient tracking, appointments, financial records, and interactive treatment charting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
